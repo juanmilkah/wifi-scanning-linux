@@ -1,0 +1,8 @@
+[package]
+name = "wifi_scanning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wifi-rs = "0.2.4"
+wifiscanner = "0.5.1"
